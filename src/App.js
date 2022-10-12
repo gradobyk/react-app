@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
         <h1> not NOW</h1>
+        <h1 className='text'> final work at React week 4</h1>
       </header>
     </div>
   );
