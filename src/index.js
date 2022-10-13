@@ -11,7 +11,7 @@ root.render(
 
     <footer>
       This project was coded by Yuliya Gradobyk and is open-sourced on Github
-      <a href="https://github.com/jcedwards48/react-week4" target="blank"></a>
+      <a href="https://github.com/gradobyk/react-app" target="blank"></a>
     </footer>
   </React.StrictMode>
 );
