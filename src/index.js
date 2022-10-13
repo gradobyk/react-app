@@ -8,6 +8,11 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
+
+    <footer>
+      This project was coded by Yuliya Gradobyk and is open-sourced on Github
+      <a href="https://github.com/jcedwards48/react-week4" target="blank"></a>
+    </footer>
   </React.StrictMode>
 );
 
