@@ -9,9 +9,11 @@ root.render(
   <React.StrictMode>
     <App />
 
-    <footer>
-      This project was coded by Yuliya Gradobyk and is open-sourced on Github
-      <a href="https://github.com/gradobyk/react-app" target="blank"></a>
+    <footer className='text-center'>
+      <h7>This project was coded by Yuliya Gradobyk and </h7>
+      <a href="https://github.com/gradobyk/react-app" target="blank">
+        is open-sourced on Github
+      </a>
     </footer>
   </React.StrictMode>
 );
